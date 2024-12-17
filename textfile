@@ -1,0 +1,31 @@
+//Data Type
+1) Integer  +ve, -ve, 0 
+2) String   "pkt", 'hello', '''hey'''
+3) Float    3.99, 4.5
+4) Boolean  True, False
+5) None     no value, a=None
+
+
+//Keywords in Python 
+
+and as assert break class else expect finally in is lambda None or pass 
+return True try continue global def del while yield 
+
+# // python is case senstive 
+
+# single line comment
+""""""
+pkt
+""""""
+
+
+# operators 
+1) Arithmetic Operator +,-,*,/,%, **
+2) Relational Operator ==, !=, <,>,>=,<=
+3) Assignment Operators =, +=, -=, *=, /=, %=, **=
+4) Logical Operators not, and, or 
+
+
+# Type conversion
+""""""conversion --> automatically"""""""
+# casting forcefully or manually 
